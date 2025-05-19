@@ -11,6 +11,7 @@ import io
 COMPANIES_FILE = "companies.json"
 ALERTS_FILE = "alerts.json"
 RANSOMWARE_API_URL = "https://api.ransomware.live/v2/recentcyberattacks" 
+RUN USING python -m streamlit run RansomMon_2.py
 
 # --- Helper Functions for Data Persistence ---
 
